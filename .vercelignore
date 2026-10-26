@@ -3,3 +3,5 @@ docs/
 scripts/
 *.md
 *.log
+.env*
+.vercel

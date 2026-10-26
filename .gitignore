@@ -8,3 +8,6 @@ out
 # Phase 1 audit material (36 MB of scraped HTML, screenshots and original assets).
 # Kept locally only; the site uses the optimized derivatives in public/images.
 docs/
+
+.vercel
+.env*
