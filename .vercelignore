@@ -1,0 +1,5 @@
+# Only what `next build` needs is uploaded to Vercel.
+docs/
+scripts/
+*.md
+*.log
